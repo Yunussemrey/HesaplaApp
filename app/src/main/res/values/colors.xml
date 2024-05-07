@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="krem">#F2F2EB</color>
+    <color name="yesil">#5D8C76</color>
+    <color name="turuncu">#D99F6C</color>
+    <color name="kahve">#A6866A</color>
+    <color name="kızıl">#733527</color>
+    <color name="diğer">#AC4F4F</color>
+    <color name="diğerIsaret">#FFFFFFFF</color>
+    <color name="textViewEnd">#A63F3F</color>
+    <color name="butonText">#F2F2EB</color>
+    <color name="butonIslem">#FFFFFFFF</color>
+</resources>
